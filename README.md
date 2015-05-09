@@ -2,6 +2,9 @@
 
 It is a simple jQuery and CSS3 code you can put on your html page quickly implement material click like ripple effect on various element.
 
+## See in action
+<a href="http://softscripts.github.io/material-click/">Demo</a>
+
 
 ## How To Use
 
