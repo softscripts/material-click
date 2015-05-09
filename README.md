@@ -18,4 +18,4 @@ Download and simply load material-click.js and material-click.css in your html p
 
 ## More Customization
 
-You can find more options like click overlay limit, overlay radius, overlay color by download this repo.
+You can find more options like click overlay limit, overlay radius, overlay color by <a href="https://github.com/softscripts/material-click/archive/master.zip">download</a> this repo.
